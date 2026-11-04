@@ -1,9 +1,9 @@
-name: Set up onesie
-description: Install a onesie release, checked against its checksum and build provenance, and add it to PATH.
+name: 'onesie: Ask a System One model'
+description: Ask a System One model a yes or no, pick or rate question in your workflows, gate on cuts calibrated on your own examples, and act on the answer.
 author: frodi-karlsson
 
 branding:
-  icon: download
+  icon: check-circle
   color: purple
 
 inputs:
